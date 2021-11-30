@@ -1,2 +1,5 @@
-First test line
+Deleted string
 New string at GitHub
+
+One new string
+Second new string
