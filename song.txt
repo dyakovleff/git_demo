@@ -6,4 +6,5 @@ Second new string
 
 
 New commit2
+test_changed
 ----------------
