@@ -9,3 +9,5 @@ New commit2
 ----------------
 
 Added new branch feature
+
+Added one more branch
