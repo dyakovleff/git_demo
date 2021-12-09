@@ -7,3 +7,5 @@ Second new string
 
 New commit2
 ----------------
+
+Added new branch feature
