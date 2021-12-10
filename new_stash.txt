@@ -1,1 +1,3 @@
 added string on remove qit for synck with local
+------------------------------------------------
+Added string to repo demo
