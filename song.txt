@@ -26,3 +26,5 @@ Add to feature branch2
 Added new string after renaming the branch from main to master
 
 Learning stashing command
+
+------------------------------
